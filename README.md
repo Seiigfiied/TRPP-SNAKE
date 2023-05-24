@@ -5,7 +5,9 @@
 ## Установка
 
 1. Склонируйте репозиторий:
-git clone https://github.com/Seiigfiied/TRPP-SNAKE/edit/main
+$git clone https://github.com/Seiigfiied/TRPP-SNAKE/edit/main
 
-2. Установите зависимости:
-pip install -r requirements.txt
+2. Установите программу на вашем компьютере с помощью 
+$  pip install snake_game-1.0-py3-none-any.whl
+
+
